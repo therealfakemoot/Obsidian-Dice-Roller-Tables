@@ -8,13 +8,12 @@ color default
 ```
 ^button-x9z0
 
-
 ```rant
 
 # A selection to synchronize gender with pronouns and name endings
 <$gendersync = [mksel:one]>
 
-<$mark-custom = "<mark style="background-color:E7EAFF">">
+<$mark-custom = "<mark style="background-color:000947">">
 
 # The Masculine name endings
 [$masc]
@@ -287,7 +286,7 @@ color default
 
 \r"## Additional"
 
-\r <pronouns/they> <pronouns/isare> from {"✧`dice: #dnd/town|link`"|"✧`dice: #DND/Region|link`"}
+\r <pronouns/they> <pronouns/isare> from {"✧`dice: #dnd/place/town|link`"|"✧`dice: #DND/Region|link`"}
 
 \r\r If <pronouns/they> must take up arms, <pronouns/they> would be a <mark-custom>"**"<selected-job/class>"**</mark>".
 
