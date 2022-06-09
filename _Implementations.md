@@ -14,7 +14,7 @@ This  character's name is `dice: [[Name Dice Tables#^main]]`, `dice: [[NPC Dice 
 
 They are of the `dice: [[NPC Dice Tables#^alignment1]]`/`dice: [[NPC Dice Tables#^alignment2]]`  alignment!
 
-They are a(n) `dice: [[Race Dice Tables#^main]]`  `dice: [[NPC Dice Tables#^jobs]]` from `dice: #dnd/town|link`. The main color of their clothing is `dice: [[Misc Dice Tables#^color]]`
+They are a(n) `dice: [[Race Dice Tables#^main]]`  `dice: [[NPC Dice Tables#^jobs]]` from `dice: #dnd/place/town|link`. The main color of their clothing is `dice: [[Misc Dice Tables#^color]]`
 
 If they must take up arms, they would be a `dice: [[NPC Dice Tables#^class]]`.
 
