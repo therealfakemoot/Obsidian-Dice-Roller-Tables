@@ -7,7 +7,7 @@ action Dice Roller: Re-roll Dice
 ^button-duiq
 
 %%
-I would recommend making copies of this and the [[Race Dice Tables]], and tweaking it for each location that has different racial make ups. (That is, if you care about minor details like this;)
+I would recommend making copies of this and the [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/Race Dice Tables|Race Dice Tables]], and tweaking it for each location that has different racial make ups. (That is, if you care about minor details like this;)
 %%
 
 This  character's name is `dice: [[Name Dice Tables#^main]]`, `dice: [[NPC Dice Tables#^pronouns]]`. 

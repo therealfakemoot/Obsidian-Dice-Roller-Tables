@@ -14,19 +14,19 @@ It's also recommended that you turn off *Display formula with results*, *Display
 
 ## Overview
 At the moment I have the following pages:
-- [[New NPC Generator]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/_Generators/Rant Generators/New NPC Generator|New NPC Generator]]
   - The new npc generator utilizing the powers of rant! Since rant is still in development, an update may temporarily break things! I'll try to update as soon as possible
-- [[_Example Generators]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/_Example Generators|Example Generators]]
 	- Go here to see some of the implementations of the tables! Right now it's only a NPC generator!
-- [[Misc Dice Tables]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/Misc Dice Tables|Miscellaneous Dice Tables]]
 	- A collection of tables that don't belong elsewhere
-- [[Name Dice Tables]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/Name Dice Tables|Name Dice Tables]]
 	- All the tables relating to names! Feel free to go in here and add tweak some!
-- [[NPC Dice Tables]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/NPC Dice Tables|NPC Dice Tables]]
 	- All tables related to NPC generation! 
-- [[Race Dice Tables]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/Race Dice Tables|Race Dice Tables]]
 	- The tables related to race generation! This is especially modified for my campaign, so feel free to mess around with this and shuffle some other races in or out!
-- [[Tarot Dice Tables]]
+- [[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/Tarot Dice Tables|Tarot Dice Tables]]
 	- Tarot, but in dice form! I use this a lot to get the vibe of a place, or for associating it to a character. 
 
 

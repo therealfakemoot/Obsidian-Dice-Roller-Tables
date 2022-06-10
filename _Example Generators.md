@@ -2,11 +2,11 @@
 
 ## Specific generators
 
-[[NPC Generator]]
+[[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/_Generators/Dice Generators/NPC Generator|NPC Generator]]
 
-[[Angel Generator]]
+[[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/_Generators/Dice Generators/Angel Generator|Angel Generator]]
 
-[[Deity Generator]]
+[[00-PARA/00 Resources/DnD/Obsidian-Dice-Roller-Tables/_Generators/Dice Generators/Deity Generator|Deity Generator]]
 
 
 ## Magic Item Name
