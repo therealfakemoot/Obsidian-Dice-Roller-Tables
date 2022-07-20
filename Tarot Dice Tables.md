@@ -1,6 +1,4 @@
 
-
-
 - Overall Card Meaning: 
 	- `dice: [[Tarot Dice Tables#^main]]`
 - Fortune:
@@ -10,7 +8,7 @@
 	- `dice: [[Tarot Dice Tables#^main-keywords]]`
 	- `dice: [[Tarot Dice Tables#^main-keywords]]`
 
-
+`button-reroll-dice`
 
 | dice: 1d2 | Tarot Cards                      |
 | --------- | -------------------------------- |
