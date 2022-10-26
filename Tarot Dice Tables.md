@@ -1,5 +1,8 @@
+---
+publish: false
+---
 
-- Overall Card Meaning: 
+- Overall Card Meaning:
 	- `dice: [[Tarot Dice Tables#^main]]`
 - Fortune:
 	-  `dice: [[Tarot Dice Tables#^main-fortune]]`
